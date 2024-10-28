@@ -1,15 +1,15 @@
 ---
 layout: page
-title: about
+title: Resources
 nav: true
-nav_order: 1
+nav_order: 4
 dropdown: true
 children:
-  - title: profiles
-    permalink: /people/
-  # - title: divider
-  # - title: projects
-  #   permalink: /projects/
+  - title: Blog
+    permalink: /blog/
+  - title: divider
+  - title: Repositories
+    permalink: /repositories/
   # - title: divider
   # - title: blog
   #   permalink: /blog/
