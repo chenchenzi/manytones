@@ -2,16 +2,14 @@
 layout: about
 title: about
 permalink: /
-subtitle: #<a href='#'>Affiliations</a>. 
+subtitle: #<a href='#'>Affiliations</a>.
 
 profile:
   align: right
   image: prof_pic.png
   image_circular: true # crops the image to make it circular
   more_info: >
-    <p>Phonetics Laboratory</p>
-    <p>University of Oxford</p>
-    <p>Oxford, UK</p>
+
 
 news: true # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
