@@ -26,7 +26,7 @@ profiles:
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
   - align: left
-    image: xinbing.jpg
+    image: xinbing.JPG
     content: about_xinbing.md
     image_circular: true # crops the image to make it circular
     more_info: >

@@ -1,4 +1,4 @@
-## Chenzi Xu
+## **Chenzi Xu**
 
 Dr Chenzi Xu is a Leverhulme Trust Early Career Fellow at the University of Oxford. She earned her D.Phil. (Ph.D.) in Linguistics from the University of Oxford. Previously, she worked as a research associate in forensic phonetics at the University of York, specialising in on automatic speaker recognition.
 
