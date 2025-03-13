@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Perception of F0 Perturbations across Many Languages
-description: with background image
+description: First Main Project
 img: assets/img/paradigm.png
 importance: 1
 category: Empirical
