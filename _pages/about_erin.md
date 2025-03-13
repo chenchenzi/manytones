@@ -1,6 +1,6 @@
 ### **Erin M. Buchanan**
 
-Data Lead
+### Data Lead
 
 Dr. Erin M. Buchanan received her Ph.D. from Texas Tech University in computational linguistics with a focus on statistics after attending Texas A&M University for her undergraduate degree. In her spare time, she likes to watch sports, play video games, go to National Parks, and travel the globe.
 
