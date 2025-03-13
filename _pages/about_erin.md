@@ -1,5 +1,5 @@
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+##**Erin M. Buchanan**
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+Dr. Erin M. Buchanan received her Ph.D. from Texas Tech University in computational linguistics with a focus on statistics after attending Texas A&M University for her undergraduate degree. In her spare time, she likes to watch sports, play video games, go to National Parks, and travel the globe.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Dr. Erin M. Buchanan’s research focuses on modeling semantic memory and the underlying language network by creating better measures of relationships between concepts. She also examines statistical practices and how we can improve those practices through enhanced methodology and teaching (check her out on [Datacamp](https://www.datacamp.com/portfolio/erinbuchanan)!). Last, she collaborates with other investigators to improve their statistics and develop psychometrically sound measures of their concepts.
