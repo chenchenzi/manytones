@@ -19,15 +19,15 @@ profiles:
       <p>Your City, State 12345</p>
   - align: left
     image: chenzi.jpg
-    content: about_einstein.md
+    content: about_chenzi.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
       <p>123 your address street</p>
       <p>Your City, State 12345</p>
   - align: left
-    image: xinbing.JPG
-    content: about_einstein.md
+    image: xinbing.jpg
+    content: about_xinbing.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
@@ -35,7 +35,23 @@ profiles:
       <p>Your City, State 12345</p>
   - align: left
     image: indranil.jpeg
-    content: about_einstein.md
+    content: about_indranil.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
+  - align: left
+    image: erin.jpg
+    content: about_erin.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p>555 your office number</p>
+      <p>123 your address street</p>
+      <p>Your City, State 12345</p>
+  - align: left
+    image: timo.jpg
+    content: about_timo.md
     image_circular: true # crops the image to make it circular
     more_info: >
       <p>555 your office number</p>
