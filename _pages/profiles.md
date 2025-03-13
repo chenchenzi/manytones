@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: members of the ManyTones leadership team
+description: Members of the ManyTones leadership team
 nav: true
 nav_order: 2
 
@@ -33,31 +33,26 @@ profiles:
     content: about_xinbing.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p><a href="https://bsky.app/profile/xinbingluo.bsky.social" target="_blank"><i class="fab fa-bluesky"></i> </a></p>
+
   - align: left
     image: indranil.jpeg
     content: about_indranil.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p><a href="https://bsky.app/profile/academicmargin.bsky.social" target="_blank"><i class="fab fa-bluesky"></i> </a></p>
+
   - align: left
     image: erin.jpg
     content: about_erin.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p><a href="https://bsky.app/profile/aggieerin.bsky.social" target="_blank"><i class="fab fa-bluesky"></i> </a></p>
+
   - align: left
     image: timo.jpg
     content: about_timo.md
     image_circular: true # crops the image to make it circular
     more_info: >
-      <p>555 your office number</p>
-      <p>123 your address street</p>
-      <p>Your City, State 12345</p>
+      <p><a href="https://bsky.app/profile/timoroettger.bsky.social" target="_blank"><i class="fab fa-bluesky"></i> </a></p>
 ---
