@@ -14,7 +14,7 @@ profiles:
     content: about_einstein.md
     image_circular: false # crops the image to make it circular
     more_info: >
-
+      <p><a href="mailto: manytones@many-languages.com" target="_blank"><i class="fas fa-envelope"></i> </a></p>
   - align: left
     image: chenzi.jpg
     content: about_chenzi.md

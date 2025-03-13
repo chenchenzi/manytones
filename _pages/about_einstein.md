@@ -1,16 +1,16 @@
 We are expanding the ManyTones team.
 
-### Why Join?
+**Why Join?**
 
 - Be part of a groundbreaking global collaboration in speech science.
 - Get access to an innovative online framework for auditory research.
 - Contribute to high-impact, multi-author publications.
 
-### Who Can Participate?
+**Who Can Participate?**
 
 We welcome research labs, fieldworkers, linguists, cognitive scientists, and musicians to collaborate in data collection and analysis. Both online and in-lab participation options are available.
 
-### Join the Leadership Team
+**Join the Leadership Team**
 
 We are also looking for enthusiastic researchers to join our Leadership Team.
 
