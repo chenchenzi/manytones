@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Our project :gem: Perception of F0 Pertubations Across Many Languages was just accepted at ManyLanguages! :sparkles:
+Our project :gem: _Perception of F0 Pertubations Across Many Languages_ was just accepted at ManyLanguages! :sparkles:
