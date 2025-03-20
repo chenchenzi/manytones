@@ -52,4 +52,13 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p><a href="https://bsky.app/profile/timoroettger.bsky.social" target="_blank"><i class="fab fa-bluesky"></i> </a></p>
+
+  - align: left
+    image: cong.jpg
+    content: about_cong.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p><a href="https://bsky.app/profile/congzhang.bsky.social" target="_blank"><i class="fab fa-bluesky"></i> </a>
+      <a href="https://scholar.google.com/citations?user=J9ofRc0AAAAJ&hl=en" target="_blank"><i class="ai ai-google-scholar"></i> </a>
+      <a href="https://github.com/congzhang365" target="_blank"><i class="fab fa-github"></i> </a></p>
 ---
