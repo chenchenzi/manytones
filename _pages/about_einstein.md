@@ -1,6 +1,6 @@
 ### We are expanding the ManyTones team.
 
-**Why Join?**
+**Why Join Us?**
 
 - Be part of a groundbreaking global collaboration in speech science.
 - Get access to an innovative online framework for auditory research.
@@ -8,19 +8,7 @@
 
 **Who Can Participate?**
 
-We welcome research labs, fieldworkers, linguists, cognitive scientists, and musicians to collaborate in data collection and analysis. Both online and in-lab participation options are available.
-
-**Join the Leadership Team**
-
-We are also looking for enthusiastic researchers to join our Leadership Team.
-
-Ideal candidates should have:
-
-- Expertise in experimental design for speech perception studies.
-- Strong quantitative analysis skills(e.g., statistical modeling, data visualization).
-- Experience in large-scale collaborative projects (e.g., multi-site data collection, cross-linguistic studies).
-
-If you have experience in these areas and are interested in shaping the direction of this project, we would love to hear from you!
+We welcome research labs, fieldworkers, linguists, cognitive scientists, and musicians to collaborate in data collection and analysis. We will provide an adaptable experimental interface that allows both online and in-lab data collection.
 
 <!-- Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
 
