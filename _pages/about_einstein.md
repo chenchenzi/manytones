@@ -1,4 +1,4 @@
-We are expanding the ManyTones team.
+### We are expanding the ManyTones team.
 
 **Why Join?**
 
