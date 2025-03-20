@@ -6,7 +6,7 @@ inline: true #false
 related_posts: false
 ---
 
-Indranil Dutta and Xinbing Luo joined the team. We submitted our first full proposal to ManyLanguages!
+Xinbing Luo and Indranil Dutta joined the team. We submitted our first full proposal to ManyLanguages!
 
 <!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below. -->
 
