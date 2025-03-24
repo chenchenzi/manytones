@@ -2,7 +2,7 @@
 
 ### Scientific Lead
 
-I am a Leverhulme Trust Early Career Fellow at the University of Oxford. I received my D.Phil. (Ph.D.) in Linguistics from the University of Oxford. Previously, I worked as a postdoctoral research associate in forensic phonetics at the University of York, specialising in on automatic speaker recognition.
+I am a Leverhulme Trust Early Career Fellow at the University of Oxford. I received my D.Phil. (Ph.D.) in Linguistics from the University of Oxford. Previously, I worked as a postdoctoral research associate in forensic phonetics at the University of York, focusing on person-specific automatic speaker recognition.
 
 My research interests are in phonetics, psychoacoustics, sociophonetics, tone, speech and language technology (particularly with applications to low-resource languages). My recent work focuses on quantitative analysis of natural speech in tone languages, with a perspective to understanding systematic phonetic variation and its implications for linguistic theory. For more information, please visit my personal [website](https://chenzixu.rbind.io).
 
