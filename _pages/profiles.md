@@ -68,6 +68,7 @@ profiles:
     image_circular: true # crops the image to make it circular
     more_info: >
       <p><a href="https://bsky.app/profile/effiekapnoula.bsky.social" target="_blank"><i class="fab fa-bluesky"></i> </a></p>
+      <a href="https://scholar.google.com/itations?user=hmb88ncAAAAJ&hl=en&oi=ao" target="_blank"><i class="ai ai-google-scholar"></i> </a>
 
   - align: right
     image: fjaeger.jpg
