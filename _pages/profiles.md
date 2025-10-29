@@ -2,7 +2,7 @@
 layout: profiles
 permalink: /people/
 title: People
-description: Members of the ManyTones leadership team
+description: Members of the ManyTones team
 nav: true
 nav_order: 2
 
@@ -63,7 +63,7 @@ profiles:
       <a href="https://github.com/congzhang365" target="_blank"><i class="fab fa-github"></i> </a></p>
 
   - align: right
-    image: effie.jpg
+    image: effie.JPG
     content: about_effie.md
     image_circular: true # crops the image to make it circular
     more_info: >
@@ -91,7 +91,7 @@ profiles:
       <a href="https://scholar.google.com/citations?user=6sd7cVAAAAAJ&hl" target="_blank"><i class="ai ai-google-scholar"></i> </a>
 
   - align: right
-    image: giulio.png
+    image: giulio.jpg
     content: about_giulio.md
     image_circular: true # crops the image to make it circular
     more_info: >
