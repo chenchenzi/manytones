@@ -61,4 +61,39 @@ profiles:
       <p><a href="https://bsky.app/profile/congzhang.bsky.social" target="_blank"><i class="fab fa-bluesky"></i> </a>
       <a href="https://scholar.google.com/citations?user=J9ofRc0AAAAJ&hl=en" target="_blank"><i class="ai ai-google-scholar"></i> </a>
       <a href="https://github.com/congzhang365" target="_blank"><i class="fab fa-github"></i> </a></p>
+
+  - align: right
+    image: effie.jpg
+    content: about_effie.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p><a href="https://bsky.app/profile/effiekapnoula.bsky.social" target="_blank"><i class="fab fa-bluesky"></i> </a></p>
+
+  - align: right
+    image: fjaeger.jpg
+    content: about_florian.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <a href="https://scholar.google.com/citations?user=PyYDHEUAAAAJ&hl=en" target="_blank"><i class="ai ai-google-scholar"></i> </a>
+
+  - align: right
+    image: marci.png
+    content: about_marci.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <a href="https://scholar.google.com/citations?user=emTiMH8AAAAJ&hl=en" target="_blank"><i class="ai ai-google-scholar"></i> </a>
+
+  - align: right
+    image: joseph.png
+    content: about_joseph.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <a href="https://scholar.google.com/citations?user=6sd7cVAAAAAJ&hl" target="_blank"><i class="ai ai-google-scholar"></i> </a>
+
+  - align: right
+    image: giulio.png
+    content: about_giulio.md
+    image_circular: true # crops the image to make it circular
+    more_info: >
+      <p><a href="https://bsky.app/profile/giulioseverijnen.bsky.social" target="_blank"><i class="fab fa-bluesky"></i> </a></p>
 ---
